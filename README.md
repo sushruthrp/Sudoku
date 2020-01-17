@@ -10,5 +10,5 @@ Solves a given goard.
 ## generate.py  
 Generate  
   *generate*: Generates a sudoku puzzle on given difficulty level and also returns the expected answer.  
-      ### Difficulty Levels: 'easy', 'medium', 'hard' and 'v_hard' with 'easy' puzzle having most clues.
+      **Difficulty Levels**: '*easy*', '*medium*', '*hard*' and '*v_hard*' with 'easy' puzzle having most clues.
       The expected answer given by 'generate' function is expected to be different from an answer produced from the backtracking      solution, with the most differences in 'v_hard' and atmost two exchanges in 'easy'.  
